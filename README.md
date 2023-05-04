@@ -1,7 +1,5 @@
 # quickstart-amazon-eks
 
-For architectural details, step-by-step instructions, and customization options, see the [deployment guide](https://fwd.aws/EP9QP).
+This solution has been superseded by Amazon EKS Blueprints.  See the [retirement notice](https://github.com/aws-quickstart/quickstart-amazon-eks/issues/516) for details.
 
-To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo.
-
-To submit code for this AWS Solution, see the [AWS Partner Solution Contributor's Guide](https://aws-quickstart.github.io/).
+This fork is maintained temporarily to work around an issue in the `xrd-eks` CloudFormation templates while these templates are migrated.
